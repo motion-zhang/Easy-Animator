@@ -66,7 +66,7 @@ public final class EasyAnimator {
           break;
 
         default:
-          JOptionPane.showMessageDialog(frame, "Invalid Args");
+          JOptionPane.showMessageDialog(frame, "Invalid Args   ");
           System.exit(1);
           return;
       }
